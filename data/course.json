@@ -1,0 +1,43 @@
+{
+  "term": "January IAP",
+  "year": "2021",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science"
+    ],
+    [
+      "Society"
+    ]
+  ],
+  "legacy_uid": "b02e206b-c370-60ab-e20a-c39c97d076e1",
+  "instructors": {
+    "content": [
+      "95b526c2-4ddf-cfdd-68e4-7b25fa85c26f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5f65b9d2-f13c-a1b0-ff15-d56b535bee6f",
+    "website": "res-es-001-mit-prison-education-initiative-discussion-about-incarceration-january-iap-2021"
+  },
+  "course_title": "MIT Prison Education Initiative Discussion About Incarceration",
+  "hide_download": false,
+  "course_description": "The [MIT Prison Education Initiative (PEI)](http://pei.mit.edu/) hosted this non-credit January IAP course to give the MIT community an opportunity to engage in discussions about mass incarceration and criminal justice reform. The Independent Activities Period (IAP) is a special four week term at MIT that runs from the first week of January until the end of the month.\n",
+  "department_numbers": [
+    "ES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.ES-001",
+  "course_image_thumbnail": {
+    "content": "2058485c-bde2-61b9-4164-e5519ef517cc",
+    "website": "res-es-001-mit-prison-education-initiative-discussion-about-incarceration-january-iap-2021"
+  },
+  "learning_resource_types": [],
+  "site_uid": "3b629f85-7884-4a66-bcf6-882a7dccfb63",
+  "site_short_id": "res.es-001-january-iap-2021",
+  "site_url_path": "courses/res-es-001-mit-prison-education-initiative-discussion-about-incarceration-january-iap-2021",
+  "title": "Course Metadata"
+}

@@ -1,0 +1,9 @@
+leftnav:
+- identifier: e40065f1-2cb5-69fb-a2a7-29c762d966cd
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: eb02d95f-d252-85b8-ee72-85e308dd8701
+  name: Discussion Resources
+  pageRef: /pages/discussion-resources
+  weight: 20
