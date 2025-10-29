@@ -12,66 +12,66 @@ uid: eb02d95f-d252-85b8-ee72-85e308dd8701
 Session 1: Mass Incarceration
 -----------------------------
 
-*   Wendy Sawyer and Peter Wagner, "[Mass Incarceration: The Whole Pie 2020](https://www.prisonpolicy.org/reports/pie2020.html)."
-*   Documentary "13th" on Netflix or free on [YouTube](https://www.youtube.com/watch?v=krfcq5pF8u8)
-*   Short video from the EJI: "[Slavery to Mass Incarceration](https://www.youtube.com/watch?v=r4e_djVSag4)"
-*   NPR Podcast on "[Mass Incarceration](https://www.npr.org/2019/08/14/751126384/mass-incarceration)"
+*   Wendy Sawyer and Peter Wagner, "{{% resource_link "4e9b757a-8a4a-41cf-8303-a1282af475a0" "Mass Incarceration: The Whole Pie 2020" %}}."
+*   Documentary "13th" on Netflix or free on {{% resource_link "6d17c302-380c-4b25-8f20-f7e1502aaa67" "YouTube" %}}
+*   Short video from the EJI: "{{% resource_link "51535275-98f2-411c-b231-a5e1fd46cd68" "Slavery to Mass Incarceration" %}}"
+*   NPR Podcast on "{{% resource_link "08f0a34a-6eb6-4d69-9ba3-eaa8a6122812" "Mass Incarceration" %}}"
 
 Additions from Discussion
 -------------------------
 
-*   Ta-Nehisi Coates, "[The Black Family in the Age of Mass Incarceration](https://www.theatlantic.com/magazine/archive/2015/10/the-black-family-in-the-age-of-mass-incarceration/403246/)." October 2015. _The Atlantic_.
-*   Denis Yukhnenko, "[A Systematic Review of Criminal Recidivism Rates Worldwide: 3-year Update](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6743246/)." _Wellcome Open Res_. 2019; 4: 28.
+*   Ta-Nehisi Coates, "{{% resource_link "4618f6f4-e5a1-4b8b-acc2-0a6be0efeb12" "The Black Family in the Age of Mass Incarceration" %}}." October 2015. _The Atlantic_.
+*   Denis Yukhnenko, "{{% resource_link "80d7bc2d-f8cc-4456-963e-116b8955871b" "A Systematic Review of Criminal Recidivism Rates Worldwide: 3-year Update" %}}." _Wellcome Open Res_. 2019; 4: 28.
 
 Session 2: Policing
 -------------------
 
-*   [Background on the Defund the Police movement](https://defundthepolice.org/)
-*   ["Who Do You Serve, Who Do You Protect?: Police Violence and Resistance in the United States"](https://www.haymarketbooks.org/books/952-who-do-you-serve-who-do-you-protect)
-*   German Lopez, “[Black Parents Describe 'The Talk' They Give to Their Children About Police](https://www.vox.com/2016/8/8/12401792/police-black-parents-the-talk)” 
-*   [NPR's History Podcast 'Throughline' Explores Policing In America](https://www.npr.org/2020/06/05/870227945/nprs-history-podcast-throughline-explores-policing-in-america)
-*   [Act Two](https://www.thisamericanlife.org/708/here-again) from the podcast "This American Life: Here, Again"—the last halfish is an interaction between a police officer and a protester \[12 minutes\]
-*   The Tech article, "[Routine Traffic Stop](https://thetech.com/2020/10/22/routine-traffic-stop)" 
+*   {{% resource_link "dd804750-0fae-4d5d-8270-47c98b378713" "Background on the Defund the Police movement" %}}
+*   {{% resource_link "c7b6ac00-8374-42cd-82ba-4dc4bbd1229c" "\"Who Do You Serve, Who Do You Protect?: Police Violence and Resistance in the United States\"" %}}
+*   German Lopez, “{{% resource_link "53661887-fbc9-4e77-9d5c-eceee742996f" "Black Parents Describe 'The Talk' They Give to Their Children About Police" %}}” 
+*   {{% resource_link "86beddb6-748a-414a-b9b1-2955b2af9d86" "NPR's History Podcast 'Throughline' Explores Policing In America" %}}
+*   {{% resource_link "711cbf9d-f40b-4dc1-aa0a-e137b03fd31e" "Act Two" %}} from the podcast "This American Life: Here, Again"—the last halfish is an interaction between a police officer and a protester \[12 minutes\]
+*   The Tech article, "{{% resource_link "c4b88222-5715-424b-b16d-53dd8213a8aa" "Routine Traffic Stop" %}}" 
 
 Additions from Discussion
 -------------------------
 
-*   [Algorithm of Oppression](http://algorithmsofoppression.com)
-*   Netflix is A Joke, "[The Broken Policing System: Patriot Act with Hasan Minhaj](https://www.youtube.com/watch?v=km4uCOAzrbM&ab_channel=NetflixIsAJoke)." Sept. 9, 2019. YouTube.
-*   Julia Galef, "[TED Talk: 'Why You Think You're Right—Even if You're Wrong'](https://www.ted.com/talks/julia_galef_why_you_think_you_re_right_even_if_you_re_wrong/up-next?language=en)"
+*   {{% resource_link "05713962-30b0-446c-a2b2-eb87ca646aaf" "Algorithm of Oppression" %}}
+*   Netflix is A Joke, "{{% resource_link "a73555f3-96c7-4557-a649-43eb5c30d28f" "The Broken Policing System: Patriot Act with Hasan Minhaj" %}}." Sept. 9, 2019. YouTube.
+*   Julia Galef, "{{% resource_link "f413517d-a268-488b-991b-90748311ae4c" "TED Talk: 'Why You Think You're Right—Even if You're Wrong'" %}}"
 *   Portugal
 
 \-Portugal decriminalized drug use in the 20th century in response to a spike in deaths by overdose in their population. The government responded decriminalized all drug use, explicitly so they could redirect funds to rehabilitation centers \*instead\* of policing systems.
 
 \-Other European countries have adopted this model, specifically to prevent deaths from overdose. The US has never really considered this option (because drug usage is selectively criminalized, i.e. wealthy individuals can use drugs whenever), but with the opioid epidemic, this is starting to be more seriously considered.
 
-*   Katherine Landergan, [“The City that Really Did Abolish the Police.”](https://www.politico.com/news/magazine/2020/06/12/camden-policing-reforms-313750) Jun. 12, 2020. _Politico_.
-*   Simpsons satire: DrRockso 1987, "[The Simpsons—Marge Passes the Police Test (S6Ep23)](https://www.youtube.com/watch?v=a_dDNBP7sgE)." Jan. 3, 2016. YouTube.
+*   Katherine Landergan, {{% resource_link "ebda53d2-2a6c-4d5e-a465-97953dfefaa4" "“The City that Really Did Abolish the Police.”" %}} Jun. 12, 2020. _Politico_.
+*   Simpsons satire: DrRockso 1987, "{{% resource_link "b2b91c1f-0ca7-46d6-a461-61eab8b95cec" "The Simpsons—Marge Passes the Police Test (S6Ep23)" %}}." Jan. 3, 2016. YouTube.
 
 Session 3: The Legal System
 ---------------------------
 
 *   Articles
 
-\-["Mandatory Minimums and Sentencing Reform"](https://www.cjpf.org/mandatory-minimums)
+\-{{% resource_link "559f9bab-dae8-4e71-8716-dc1943333d82" "\"Mandatory Minimums and Sentencing Reform\"" %}}
 
-\-Bill Quigley, "[18 Examples of Racism in the Criminal Legal System](https://www.huffpost.com/entry/18-examples-of-racism-in-criminal-legal-system_b_57f26bf0e4b095bd896a1476)." Oct. 3, 2016. _Huffpost_.
+\-Bill Quigley, "{{% resource_link "61b2a948-c0db-43b3-a367-4d87baf65632" "18 Examples of Racism in the Criminal Legal System" %}}." Oct. 3, 2016. _Huffpost_.
 
 *   Short Videos
 
-\-[Power of Prosecutors](https://www.aclu.org/issues/smart-justice/prosecutorial-reform/power-prosecutors)
+\-{{% resource_link "0ae45614-ef65-4c00-860e-bb8503adfa9d" "Power of Prosecutors" %}}
 
 *   Podcasts
 
-\-Death Row/Penalty: [Ear Hustle Episode 17 The Row](https://www.earhustlesq.com/episodes/2018/5/23/the-row) and [Episode 35 Chicken on the Bone](https://www.earhustlesq.com/episodes/2019/10/2/chicken-on-the-bone)
+\-Death Row/Penalty: {{% resource_link "e95fb803-a562-439f-b260-0c12cfbcc4d5" "Ear Hustle Episode 17 The Row" %}} and {{% resource_link "73468805-0292-48a1-8b01-ffa874c1c7b7" "Episode 35 Chicken on the Bone" %}}
 
-\-Sex Trafficking: [Ear Hustle Episode 13 Dirty Water](https://www.earhustlesq.com/episodes/2018/3/28/dirty-water)
+\-Sex Trafficking: {{% resource_link "dc7a0b32-e094-4f59-a55c-11cbb6a6c841" "Ear Hustle Episode 13 Dirty Water" %}}
 
-\-Police Immunity:["An Immune System"](https://www.npr.org/2020/06/12/876212065/an-immune-system)
+\-Police Immunity:{{% resource_link "ee540573-3a45-428a-a24f-667b1991f597" "\"An Immune System\"" %}}
 
 *   Movies/Series
 
-\-[Documentary: The Redemption Project](https://www.thedreamcorps.org/redemptionproject-mymothersmurder/)
+\-{{% resource_link "3a317cf9-8cbf-4a5c-92a2-205d18baaa7d" "Documentary: The Redemption Project" %}}
 
 \-Trial 4 on Netflix
 
@@ -80,25 +80,25 @@ Session 3: The Legal System
 Additions from Discussion
 -------------------------
 
-*   General Overview of Criminal Process: Stacy Barrett, "[How Does a Criminal Case Go Through the Justice System?](https://www.alllaw.com/articles/nolo/criminal/process.html)"
-*   Victim Offender Dialogues: Anthony Cotton, "[After a Crime, Can Victim and Perpetrator Connect? Restorative Justice Hopes So](https://www.cpr.org/show-segment/after-a-crime-can-victim-and-perpetrator-connect-restorative-justice-hopes-so/)."
-*   One Example of Elimination of a Mandatory Minimum Sentence: [Fair Sentencing Act](https://en.wikipedia.org/wiki/Fair_Sentencing_Act)
-*   [Podcast on Police Immmunity](https://www.wnycstudios.org/podcasts/radiolab/articles/radiolab-presents-more-perfect-mr-graham-reasonable-man)
-*   Public Defenders Overworked: Alexa van Brunt, "[Poor People Rely on Public Defenders who are too Overworked to Defend Them](https://www.theguardian.com/commentisfree/2015/jun/17/poor-rely-public-defenders-too-overworked)." _The Guardian_.
-*   Potential Fix: paying public defenders more: Matt Jarchow, "[What's the Fix to Public Defender Problems?](https://www.nbc26.com/news/local-news/whats-the-fix-to-public-defender-problems)" _NBC_.
-*   [Knowing Your Rights](https://www.aclu.org/know-your-rights/)
-*   Befriends KKK members: Daryl Davis, "[I Wanted to Understand why Racists Hated me. So I Befriended Klansmen](https://www.washingtonpost.com/outlook/i-wanted-to-understand-why-racists-hated-me-so-i-befriended-klansmen/2017/09/29/c2f46cb8-a3af-11e7-b14f-f41773cd5a14_story.html)." _The Washington Post_.
+*   General Overview of Criminal Process: Stacy Barrett, "{{% resource_link "a16cd2d9-32be-4ced-b158-27f6e77f3448" "How Does a Criminal Case Go Through the Justice System?" %}}"
+*   Victim Offender Dialogues: Anthony Cotton, "{{% resource_link "40e61e49-877e-473c-aa91-04b341f39d77" "After a Crime, Can Victim and Perpetrator Connect? Restorative Justice Hopes So" %}}."
+*   One Example of Elimination of a Mandatory Minimum Sentence: {{% resource_link "f00b2af3-a10d-4f55-870b-e87401dc7f16" "Fair Sentencing Act" %}}
+*   {{% resource_link "fc1acc0a-77eb-4ee7-acdc-e53cec5e0cdd" "Podcast on Police Immmunity" %}}
+*   Public Defenders Overworked: Alexa van Brunt, "{{% resource_link "c5653e89-707a-4f5e-a9f1-f2cffba6aac4" "Poor People Rely on Public Defenders who are too Overworked to Defend Them" %}}." _The Guardian_.
+*   Potential Fix: paying public defenders more: Matt Jarchow, "{{% resource_link "65b70444-41f3-4921-a3b0-fa533ac34e52" "What's the Fix to Public Defender Problems?" %}}" _NBC_.
+*   {{% resource_link "6f97917d-dd9a-484e-b757-9e678aed54e4" "Knowing Your Rights" %}}
+*   Befriends KKK members: Daryl Davis, "{{% resource_link "94978881-cfc8-45b4-83b8-44f1dd45ea2c" "I Wanted to Understand why Racists Hated me. So I Befriended Klansmen" %}}." _The Washington Post_.
 
 Session 4: Restorative Justice
 ------------------------------
 
-*   [Van Jones’ Redemption Project](https://www.thedreamcorps.org/redemptionproject-mymothersmurder/)
-*   [Mariame Kaba's 9 Solidarity Commitments to/with Incarcerated People for 2021](https://docs.google.com/document/d/1ByMHRNbsntdyziubfPJq7vDzxiBFEqroxzCUgKsxp9E/edit?fbclid=IwAR1RzJoXbJEoVB1F-2Lk-c7zIqCvvuGhdgNrvLVMN8BBf4fL1KVGn3nEU0c)
+*   {{% resource_link "3a317cf9-8cbf-4a5c-92a2-205d18baaa7d" "Van Jones’ Redemption Project" %}}
+*   {{% resource_link "a089eef9-2bed-40aa-bfef-66b9b15fd80c" "Mariame Kaba's 9 Solidarity Commitments to/with Incarcerated People for 2021" %}}
 *   Special Guests: Lee Perlman and Maria D’Addieco
 
 \-Maria D’Addieco is a federal probation officer who started a restorative justice program for system involved people prior to (or in place of) incarceration.
 
 \-Lee Perlman earned his B.A. from St. John’s College (Annapolis), and then pursued graduate work in philosophy at the Catholic University of America. He completed an M.A. in political philosophy at Georgetown University. Before earning his Ph.D. at the Massachusetts Institute of Technology, Dr. Perlman spent eight years working in the political arena as a public interest lobbyist and political organizer. In 1978, Baltimore Magazine named him ‘the most feared lobbyist in Maryland’. He has taught at Harvard University, Brown University, Swarthmore College, Phillips Academy (Andover), and, for the past 20 years, at MIT. Dr. Perlman considers himself to be primarily an educator, and prides himself on designing and teaching a number of courses at MIT which offer students an integrated view of the humanities and sciences in the western tradition. Among these are his current courses _Ancient Greek Mathematics and Philosophy_ and a course jointly listed in the Philosophy Department, _A Philosophical History of Energy_. His other signature course is _Philosophy of Love_. He has twice been awarded the Irwin Sizer Award for Most Significant Improvement to MIT Education (1997, 2015). Lee is also a composer and musician, and the Music Director of the Deborah Abel Dance Company, which has toured in the US and India.
 
-*   ["Are Private Prisons Driving Mass Incarceration?"](https://www.prisonpolicy.org/blog/2015/10/07/private_prisons_parasite/) by Peter Wagner
-*   Highly recommend [Ear Hustle](https://www.earhustlesq.com/) to learn more about life inside prison.
+*   {{% resource_link "86a76f06-21b3-4f4a-a30d-389c971284be" "\"Are Private Prisons Driving Mass Incarceration?\"" %}} by Peter Wagner
+*   Highly recommend {{% resource_link "43f77f6e-e73b-4251-b0d1-dc0e8fb75901" "Ear Hustle" %}} to learn more about life inside prison.
